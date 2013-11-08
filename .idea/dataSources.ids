@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails store: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="a3d0b69b-e607-439d-9a6b-19cc6063958a">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/store_test</jdbc-url>
+    <user-name>root</user-name>
+    <libraries/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails store: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="6b1578a3-2722-4ab0-8093-47088c2ef1e4">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/store_development</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails store: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="f6377bbc-3427-4a19-933a-1737feb18f2e">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/store_production</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
